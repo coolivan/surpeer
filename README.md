@@ -1,7 +1,7 @@
 # surpeer
 worldpress theme
 
-![avatar](/surpeer.com)
+![avatar](/surpeer.com.jpg)
 
 ##配置
 数据库文件：surpeer.sql
